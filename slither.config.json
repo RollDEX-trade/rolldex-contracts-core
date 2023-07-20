@@ -1,0 +1,9 @@
+{
+  "detectors_to_exclude": "uninitialized-local,conformance-to-solidity-naming-conventions,calls-loop",
+  "exclude_informational": false,
+  "exclude_low": false,
+  "exclude_medium": false,
+  "exclude_high": false,
+  "disable_color": false,
+  "filter_paths": "mock|@openzeppelin"
+}
